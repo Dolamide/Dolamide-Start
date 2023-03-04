@@ -9,7 +9,7 @@ public class Questions {
          * 
          * How many variables are in the class "Vehicle"?
          */
-        return 1;
+        return 3;
     }
 
     int question2(){
@@ -25,7 +25,7 @@ public class Questions {
         /* 
          * What datatype is expected to be returned in the "honk" method?
          */
-        return "String";
+        return "string";
     }
     
 }
